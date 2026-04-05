@@ -1,4 +1,11 @@
-## Hi there 👋
+## ¡Hola! Bienvenidos a mi perfil de github
+
+Mi nombre es Luc Uzal, soy antropólogo y analista data science. Trabajo tanto con tecnicas cuantitativas y cualitativas.
+En la Argentina, trabajé como investigador en salud pública así como en temáticas vinculadas al género y sexualidad. A lo largo de los úlitmos 10 años fui elaborando distintos sistemas y proyectos que voy a compartir en la plataforma:
+
+- Indexadx --> sistema desarrollado en R que permite transformar un archivo xlsx en el índice temático de un libro.
+- El Porteño DB --> Sistema de indexación de revistas desarrollado en Python, desarrollada específicamente para la Revista El Porteño (1982-1993)
+
 
 <!--
 **lucuzal/lucuzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
